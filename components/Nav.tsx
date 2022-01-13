@@ -1,8 +1,4 @@
-/* This example requires Tailwind CSS v2.0+ */
-import { Fragment } from 'react'
-import { Popover, Transition } from '@headlessui/react'
-
-export default function Example() {
+export default function Nav() {
     return (
         <div className="relative bg-white">
             <div className="flex justify-between items-center px-4 py-6 sm:px-6 md:justify-start md:space-x-10">

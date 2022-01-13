@@ -15,7 +15,6 @@ export default function Body() {
                 </div>
 
                 <div className="relative mx-auto max-w-md px-4 sm:max-w-3xl sm:px-6 lg:px-0">
-                    {/* Content area */}
                     <div className="pt-12 sm:pt-16 lg:pt-20">
                         <h2 className="flex justify-center sm:block text-3xl text-gray-900 font-extrabold tracking-tight sm:text-5xl mb-2">
                             <span className="bg-freud-orange text-black py-0 px-2 mr-2">LISTEN NOW</span> <span className="text-black">EPISODE 1</span>
