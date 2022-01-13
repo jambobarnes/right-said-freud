@@ -4,7 +4,15 @@ module.exports = {
     './components/**/*.{js,ts,jsx,tsx}',
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        'freud-orange': '#ff7700'
+      },
+      fontFamily: {
+        'sans': ['Bebas Neue', 'sans-serif'],
+        'arimo': ['Arima', 'sans-serif']
+      }
+    },
   },
   plugins: [],
 }
