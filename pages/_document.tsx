@@ -14,7 +14,7 @@ class MyDocument extends Document {
                         property="og:title"
                         content="Right Said Freud Podcast"
                     />
-                    <meta property="og:image" content="rsf.png" />
+                    <meta property="og:image" content="https://sharp-circle-media-assets.s3.eu-west-2.amazonaws.com/rsf.png" />
                     <link rel="preconnect" href="https://fonts.googleapis.com" />
                     <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="true" />
                     <link href="https://fonts.googleapis.com/css2?family=Arimo&amp;family=Bebas+Neue&amp;display=swap" rel="stylesheet" />
