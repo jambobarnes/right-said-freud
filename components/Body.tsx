@@ -26,7 +26,7 @@ export default function Body() {
                             
                                 <audio
                                     controls
-                                    src="https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_5MG.mp3">
+                                    src="https://sharp-circle-media-assets.s3.eu-west-2.amazonaws.com/right-said-freud-episode1.mp3">
                                     Your browser does not support the
                                     <code>audio</code> element.
                                 </audio>
